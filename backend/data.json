@@ -1,0 +1,467 @@
+[
+    {
+        "name": "Tokyo",
+        "t_start": "2024-12-30",
+        "t_end": "2025-01-07", 
+        "hotels": ["The Westin Tokyo"],
+        "foods": [
+            "Mochi mochi choco-pan @ Family Mart",
+            "Chicken katsu @ Akihabara Station"
+        ],
+        "places": [
+            "Hololive Pop-Up Store in Shibuya",
+            "Tower Records",
+            "Yebisu Garden Place",
+            "Cat Cafe MoCHA",
+            "Goodsmile Racing Pop-Up Store in Chiyoda",
+            "Yokohama Marin Tower for New Years Eve Fireworks",
+            "Ebisu Yamashita Fushimi Inari-jinja Shrine",
+            "Akiba Island Pachinko in Akihabara",
+            "Don Quijote",
+            "Tokyo Dome City",
+            "Imperial Palace & Kokyo Gaien National Garden",
+            "Demon Slayer Art Exhibit at Creative Museum Tokyo",
+            "Diver City Tokyo Plaza - Giant Unicorn Gundam Statue in Higashiyashio",
+            "Axes Femme",
+            "Pokemon Center MEGA and Pokemon Sweets",
+            "Animal Room Ikefumo (permanently closed now)",
+            "Shinjuku Gyoen National Garden",
+            "Tokyo Tower",
+            "Tokyo Skytree"
+        ],
+        "photos": [
+            "https://drive.google.com/file/d/1DzyQGWgyOxlRoBLjh6XbWVqLh0qD6z_n/view?usp=sharing",
+            "https://drive.google.com/file/d/1iHvX4AXIsknx-OuR-IjdRK4SpD8opL-W/view?usp=sharing",
+            "https://drive.google.com/file/d/10EFLwlcV-0YqVf6Z4-uxMx6Xvl6mysPN/view?usp=sharing",
+            "https://drive.google.com/file/d/17TBAfrQ34iYChOPXOD56JDELWoNXVVw8/view?usp=sharing"
+        ],
+        "c_thoughts": "Here are Colton's thoughts",
+        "k_thoughts": "Here are Kelsey's thoughts"
+    },
+    {
+        "name": "Taiwan",
+        "t_start": "2025-02-14",
+        "t_end": "2025-02-17", 
+        "hotels": ["Courtyard Marriott Taipei Downtown"],
+        "foods": [
+            "Breakfast @ memo cafe in Jiangning Park",
+            "Night market food @ Nanjichang Night Market",
+            "Taiwanese street pancakes @ 媽媽樂早餐店 錦州店 Breakfast House in Zhongshan District - Jiangning",
+            "Taiwanese hot pot @ Chuan Guo in Zhongshan District - Zhongyang"
+        ],
+        "places": [
+            "Chiang Kai-Shek Memorial Hall",
+            "National Palace Museum",
+            "Jade Stamp Store",
+            "Taipei 101",
+            "Nanjichang Night Market",
+            "Shiding District Yong’an Village & Pinglin District Tea Tour",
+            "Taipei City Zoo",
+            "Beitou Hot Spring Park and Thermal Valley",
+            "Beitou Hot Spring Museum",
+            "Art Festival in Zhongszheng District - Jianguo"
+        ],
+        "photos": [
+            "https://drive.google.com/file/d/1zRww8-xAqa6lR7tTc1N28zmgcA7luiL0/view?usp=sharing",
+            "https://drive.google.com/file/d/1kpe2xJfpta7wgxiv7tP7SIgi4X9FWPHS/view?usp=sharing",
+            "https://drive.google.com/file/d/1leA63W7VklQqPpjPf-PqbFWMiLlqi10V/view?usp=sharing"
+        ],
+        "c_thoughts": "Here are Colton's thoughts on Taiwan",
+        "k_thoughts": "Here are Kelsey's thoughts on Taiwan"
+    },
+    {
+        "name": "Kanazawa",
+        "t_start": "2025-06-20",
+        "t_end": "2025-06-22", 
+        "hotels": [
+            "Fukatani Onsen Motoyu Ishiya in Fukatanimachi", 
+            "Four Points Flex by Sheraton Kanazawa"
+        ],
+        "foods": [
+            "Tea and mochi @ Ochaya Shima",
+            "Sukiyaki @ Hida Beef Sukiyaki Shabushabu Nakahashi Wakachiya",
+            "Meals @ Motoyu Ishiya"
+        ],
+        "places": [
+            "Higashi Geisha District in Higashiyama",
+            "Ochaya Shima The Higashi Kuruwa of Kanazawa",
+            "Nomura-ke Samurai Residence",
+            "Kanazawa Train Station",
+            "Kintsugi Class in Higashi District",
+            "World Heritage Villages Tour of Shirakawa Village, Hida Folk Village, Takayama Jinya, and Ogicho Ruins",
+            "Kanazawa Castle Park",
+            "Oyama-jinja Shrine",
+            "Kenrokuen Garden"
+        ],
+        "photos": [
+            "https://drive.google.com/file/d/1_j_mRSScAt1mg31JoHEQ0eEZOvYnRdzO/view?usp=sharing",
+            "https://drive.google.com/file/d/1c9vCDDnoa61JJfg5QyosUnh7glLIykMP/view?usp=sharing",
+            "https://drive.google.com/file/d/1fB-nmKLv8cvhOGE0whZ9aTolWz_1Becn/view?usp=sharing"
+        ],
+        "c_thoughts": "Here are Colton's thoughts on Kanazawa",
+        "k_thoughts": "Here are Kelsey's thoughts on Kanazawa"
+    },
+    {
+        "name": "Fujiyoshida",
+        "t_start": "2025-07-03",
+        "t_end": "2025-07-07", 
+        "hotels": [
+            "Keikyu EX Inn Keikyu Kawasaki Ekimae", 
+            "Rosso Fuji Air BnB"
+        ],
+        "foods": ["Domino's Pizza"],
+        "places": [
+            "Special Train from Tokyo to Fujikawaguchiko",
+            "Bus from Station to Base of Fuji",
+            "Climbed Fuji (Stations [] - [])"
+        ],
+        "photos": [
+            "https://drive.google.com/file/d/1pd4kruc7mB9epY2LvHPfagJgIrqq3qZ8/view?usp=sharing"
+        ],
+        "c_thoughts": "Here are Colton's thoughts on Fuji",
+        "k_thoughts": "Here are Kelsey's thoughts on Fuji"     
+    },
+    {
+        "name": "Tokyo",
+        "t_start": "2025-09-06",
+        "t_end": "2025-09-09", 
+        "hotels": ["HOTEL MYSTAYS Kameido"],
+        "foods": [
+            "Magikarp chocolate taiyaki @ Yokohama Kurikoan Store",
+            "Kirby raspberry jello @ Kirby Cafe Store",
+            "Fluffy pancake @ Iriya Plus Cafe",
+            "Breakfast @ Excelsior Caffe"
+        ],
+        "places": [
+            "Senso-ji temple in Asakusa",
+            "Akiba Nyan Nyan Maid Cafe in Akihabara",
+            "Kirby Cafe Store & Pokémon Store in Tokyo Station",
+            "Naritasan Park",
+            "Naritasan Shinsho-ji Temple"
+        ],
+        "photos": [
+            "https://drive.google.com/file/d/11nu4K5KSApKSkFhDPfwxiBBptwiy0mZA/view?usp=sharing",
+            "https://drive.google.com/file/d/1S7HykKVfJBHUaX-OPA5QcKKpwD8IhwKH/view?usp=sharing",
+            "https://drive.google.com/file/d/12lDcuDnoZdQeueuyOnlZPbohhByD3fZV/view?usp=sharing"
+        ],
+        "c_thoughts": "Here are Colton's thoughts on Tokyo",
+        "k_thoughts": "Here are Kelsey's thoughts on Tokyo"       
+    },
+    {
+        "name": "Kyoto",
+        "t_start": "2025-09-09",
+        "t_end": "2025-09-10", 
+        "hotels": ["MIMARU Kyoto Station"],
+        "foods": [
+            "Sushi @ Hamazushi",
+            "Coffee @ cafe in Kigashikujonishisansannocho",
+            "Sukiyaki place in Kyoto - Kayama area"
+        ],
+        "places": [
+            "Kiyomizu-dera Temple", 
+            "Nintendo Museum"
+        ],
+        "photos": [
+            "https://drive.google.com/file/d/1siFJ9HOw_0-GWbTdhl3Mx1o8Z46CVEac/view?usp=sharing",
+            "https://drive.google.com/file/d/1_yNN09n-VrCIF1MqsbN7bS01IeSleCmw/view?usp=sharing"
+        ],
+        "c_thoughts": "Here are Colton's thoughts on Kyoto",
+        "k_thoughts": "Here are Kelsey's thoughts on Kyoto"
+    },
+    {
+        "name": "Hiroshima",
+        "t_start": "2025-09-10",
+        "t_end": "2025-09-11", 
+        "hotels": ["RIHGA Royal Hotel Hiroshima"],
+        "foods": [
+            "Momiji Manju @ KIMURAYA-Honten",
+            "Hiroshima Okonomiyaki @ Okonomiyaki Mitchan Sohonten Orizuru Tower"
+        ],
+        "places": [
+            "Miyajima Island",
+            "Otorii Gate (red gate in the water)",
+            "Itsukushima Shrine",
+            "Daisho-in Temple",
+            "Hiroshima Peace Memorial Park",
+            "Hiroshima Peace Memorial Museum",
+            "Atomic Bomb Dome"
+        ],
+        "photos": [
+            "https://drive.google.com/file/d/1MWMFnOqqGnx9Y-nZg0iNDT1E1woensMK/view?usp=sharing"
+        ],
+        "c_thoughts": "Here are Colton's thoughts on Hiroshima",
+        "k_thoughts": "Here are Kelsey's thoughts on Hiroshima"
+    },
+    {
+        "name": "Nara",
+        "t_start": "2025-09-13",
+        "t_end": "2025-09-13", 
+        "hotels": [],
+        "foods": ["Soba @ Nako Service Kasuga Chaya"],
+        "places": [
+            "Kofuku-ji Temple",
+            "Nara Park",
+            "Todai-ji Temple",
+            "Kasuga Taisha Shrine"
+        ],
+        "photos": [
+            "https://drive.google.com/file/d/1Y651-M_knIvcK2q-s6FSOmdNhe51TwUE/view?usp=sharing",
+            "https://drive.google.com/file/d/1KTRrMD_eHKGSqxiUFnJ66l8K81E0siGH/view?usp=sharing",
+            "https://drive.google.com/file/d/1hC9dUGLQZgR9BKcM-oG6Z6biyLb91H6o/view?usp=sharing"
+        ],
+        "c_thoughts": "Here are Colton's thoughts on Nara",
+        "k_thoughts": "Here are Kelsey's thoughts on Nara"
+    },
+    {
+        "name": "Kyoto",
+        "t_start": "2025-09-14",
+        "t_end": "2025-09-17", 
+        "hotels": ["MIMARU Kyoto Station"],
+        "foods": [
+            "Omurice Place @ Mollette in Kyoto Station",
+            "Traditional Japanese food @ in Kyoto Station"
+        ],
+        "places": [
+            "Nonomiya-jinja Shrine ",
+            "Sagano Bamboo Grove",
+            "Tenryu-ji Temple",
+            "Togetsukyo Bridge & Arashiyama Park",
+            "Pug Cafe living Room in Katsurakawatacho",
+            "Manga Museum in Nijodencho",
+            "Fushimi Inari Taisha Shrine",
+            "Kyoto Gyoen National Garden"
+        ],
+        "photos": [
+            "https://drive.google.com/file/d/1iMc_HQTr7O-nUA14GyyNdSCJvckOiUT5/view?usp=sharing",
+            "https://drive.google.com/file/d/1_KU1r2mOC5_9fmp9i_h9G8JtKOKfO7s6/view?usp=sharing"
+        ],
+        "c_thoughts": "Colton was not present.",
+        "k_thoughts": "Here are Kelsey's thoughts on Kyoto"
+    },
+    {
+        "name": "Osaka",
+        "t_start": "2025-09-15",
+        "t_end": "2025-09-15", 
+        "hotels": [],
+        "foods": [
+            "Fluffy pancakes @ Kitahorie Pancake House",
+            "Doria @ Kobe Motomachi Doria in Abeno Harukas Dining"
+        ],
+        "places": [
+            "Abeno Harukas Tower",
+            "Dotonbori Canal"
+        ],
+        "photos": [
+            "https://drive.google.com/file/d/1BGTUD0I6RyEqvyUpZcccYtoYUQjv6IKR/view?usp=sharing",
+            "https://drive.google.com/file/d/1TvFBwIuHT0c3u_Gfh3UH1HX5PLx8Q4Tt/view?usp=sharing",
+            "https://drive.google.com/file/d/1Ge8PagSN5_e8IaJUwsDYvvoRUwkXGn8c/view?usp=sharing"
+        ],
+        "c_thoughts": "Colton was not present.",
+        "k_thoughts": "Here are Kelsey's thoughts on Osaka"
+    },
+    {
+        "name": "Tokyo",
+        "t_start": "2025-09-17",
+        "t_end": "2025-09-20", 
+        "hotels": ["MIMARU Tokyo Ueno North"],
+        "foods": [
+            "Apple bloom tea @ Oyoppi Coffee in Shinjuku",
+            "Peruvian cuisine @ Huanchaco in Shinjuku",
+            "Drinks @ Lost Bar in Shibuya"
+        ],
+        "places": [
+            "Akihabara",
+            "Pokémon Center Mega Tokyo and Pokémon Sweets in Ikebukuro",
+            "Pokémon Center TOKYO DX in Nihombashi",
+            "SMALL WORLDS TOKYO in Toyosu",
+            "Diver City Tokyo Plaza - Giant Unicorn Gundam Statue in Higashiyashio",
+            "Tokyo Station",
+            "Shibuya Crossing",
+            "Hachiko Square",
+            "Sailor Moon Store in Harajuku"
+        ],
+        "photos": [
+            "https://drive.google.com/file/d/1MBX9-7Bi8DLq2VQexv-4U8EW0FHY589p/view?usp=sharing",
+            "https://drive.google.com/file/d/1TbmFf1xba7ght-Hlc1OciDr-DMMhUgQu/view?usp=sharing",
+            "https://drive.google.com/file/d/1CEkQ05adFKxeIYcyywcw6uRoB5uwZNCu/view?usp=sharing"
+        ],
+        "c_thoughts": "Colton was not present.",
+        "k_thoughts": "Here are Kelsey's thoughts on Tokyo"
+    },
+    {
+        "name": "Fukuoka & Hita",
+        "t_start": "2025-10-18",
+        "t_end": "2025-10-21", 
+        "hotels": ["Kizantei Hotel"],
+        "foods": [
+            "Dinner on the Boat @ Kizantei Hotel",
+            "Yakisoba @ ?",
+            "Ramen @ ?"
+        ],
+        "places": [
+            "Pokemon Center in Hakata Station",
+            "Hakata Station",
+            "Uwamachi-Dori Street",
+            "Ashitaya (Geita Store)",
+            "Yukata accessories store",
+            "Mountain Hike (where?)",
+            "Street Walking around Hita",
+            "Onsen @ Kizantei Hotel"
+        ],
+        "photos": [
+            "https://drive.google.com/file/d/1C6m9G5rKrne85CWRmu3vEoCRM0jHL9AZ/view?usp=sharing",
+            "https://drive.google.com/file/d/1iOUyG3SlaHJ9Efd3247qkdryRDtOxXAG/view?usp=sharing",
+            "https://drive.google.com/file/d/1uzYQURoNAvhWhxIDZAhHOzZNqE0qxjTl/view?usp=sharing"
+        ],
+        "c_thoughts": "Here are Colton's thoughts on Fukuoka & Hita",
+        "k_thoughts": "Here are Kelsey's thoughts on Fukuoka & Hita"
+    },
+    {
+        "name": "Sapporo",
+        "t_start": "2026-02-03",
+        "t_end": "2026-02-09", 
+        "hotels": [
+            "Marukoma Onsen Ryokan", 
+            "Fairfield by Marriott in Eniwa"
+        ],
+        "foods": [
+            "Dinner @ Marukoma Onsen Ryokan",
+            "Hamburger Steak @ Tawaraya Daimaru Store in Sapporo Station",
+            "Spicy Ramen @  Sapporo Station"
+        ],
+        "places": [
+            "Onsen @ Marukoma Onsen Ryokan",
+            "All three sites @ Sapporo Snow Festival 2026",
+            "Otaru Orugorudo Shop & Museum",
+            "Otaru Canal (had snow lanterns out)",
+            "Michi-no-Eki in Eniwa (had snow lanterns out)"
+        ],
+        "photos": [
+            "https://drive.google.com/file/d/1wnkDbFlbEyb5ujX4OC8dTCTtHppXCslA/view?usp=sharing",
+            "https://drive.google.com/file/d/1mDF04kfyTHLBZ90bqTON8S3rXeELQvJQ/view?usp=sharing",
+            "https://drive.google.com/file/d/1p3VG0l_sCfAwF7HgVEDwT-InGMn2lu6s/view?usp=sharing"
+        ],
+        "c_thoughts": "Here are Colton's thoughts on Sapporo",
+        "k_thoughts": "Here are Kelsey's thoughts on Sapporo"
+    },
+    {
+        "name": "Singapore",
+        "t_start": "2026-05-21",
+        "t_end": "2026-05-24", 
+        "hotels": [
+            "The Serangoon House Singapore - Tribute Portfolio"
+        ],
+        "foods": [
+            "Duck @ Kam’s Roast in Changi Airport",
+            "Gupshup @ The Serangoon House"
+        ],
+        "places": [
+            "Changi Airport Waterfall",
+            "Pokemon Center @ Changi Airport",
+            "Sri Veeramakaliammann Temple",
+            "Sri Srinivasa Perumal Temple",
+            "Sri Vadapathira Kaliamman Temple",
+            "Gardens by the Bay, Flower Dome, & Cloud Forest",
+            "Marina Bay Sands",
+            "Singapore Zoo",
+            "Clifford Pier", 
+            "Boat Quay", 
+            "Merlion Park",
+            "Universal Studios Singapore"
+        ],
+        "photos": [
+            "https://drive.google.com/file/d/1OGj7E75H-Tg2_NgzGIo97H0BDJrx7TLM/view?usp=sharing",
+            "https://drive.google.com/file/d/1bq7LplAdI6oSPiBI89vEkae9KhC4MfWq/view?usp=sharing",
+            "https://drive.google.com/file/d/1p4eNPE47S5DWCJK0Z2wze9kHIilI_JGb/view?usp=sharing"
+        ],
+        "c_thoughts": "Here are Colton's thoughts on Singapore",
+        "k_thoughts": "Here are Kelsey's thoughts on Singapore"
+    },
+    {
+        "name": "Kagawa",
+        "t_start": "2026-06-19",
+        "t_end": "2026-06-21", 
+        "hotels": [
+            "Hotel Taiyo Farm Yashima"
+        ],
+        "foods": [
+            "Olive beef steak @ Steak House Ichigo",
+            "Special chicken restaurant near Yumeji in Uchimachi, Takamatsu"
+        ],
+        "places": [
+            "Ritsurin Garden & Boat around garden",
+            "Nakanoinari Shrine (by train station)",
+            "Ruins of Takamatsu Castle",
+            "Kagawa Museum",
+            "Yakuri Mountain Rail",
+            "Yakuri Mountain",
+            "Yakuri-ji Temple",
+            "Shikoku Mura",
+            "Pokemon Center Kagawa"
+        ],
+        "photos": [
+            "https://drive.google.com/file/d/1AhrPo4DmkvQE9b8hl4kfaC36ZF4IzHkU/view?usp=sharing",
+            "https://drive.google.com/file/d/1eK1c1nkvLPVgtVpIqJINDvau-ERaLSOu/view?usp=sharing",
+            "https://drive.google.com/file/d/1tEd173DmfN5i6UFr2dKnJeIclIx-klYK/view?usp=sharing"            
+        ],
+        "c_thoughts": "Here are Colton's thoughts on Kagawa",
+        "k_thoughts": "Here are Kelsey's thoughts on Kagawa"
+    },
+    {
+        "name": "Osaka",
+        "t_start": "2026-07-26",
+        "t_end": "2026-07-28", 
+        "hotels": ["Courtyard by Marriott Osaka Honmachi"],
+        "foods": [
+            "Fluffy pancakes & 3D foam @ Kitahorie Pancake House",
+            "Fancy drinks @ Maze Cafe Brunch Lounge",
+            "Best okonomiyaki @ [ ?] in Dotombori Canal area"
+        ],
+        "places": [
+            "Hanshin Koshien Stadium -> Hanshin Tigers vs Tokyo Giants",
+            "Osaka Castle Park",
+            "Dotombori Canal",
+            "Pokemon Center DX Osaka",
+            "Namba Yasaka Jinja (kinda, it was closed)"
+        ],
+        "photos": [
+            "https://drive.google.com/file/d/1ij6eIX1kIM0juDx2QpO0yyG3Bq5_pG_c/view?usp=sharing",
+            "https://drive.google.com/file/d/1n8KnPSXsosUs7JsoTA3MSmgNl29iC1Tq/view?usp=sharing",
+            "https://drive.google.com/file/d/1L3K5LIpAkZ9AXTOXqyzIvPs8oDm4d_Wu/view?usp=sharing"            
+        ],
+        "c_thoughts": "Here are Colton's thoughts on Osaka",
+        "k_thoughts": "Here are Kelsey's thoughts on Osaka"
+    },
+    {
+        "name": "Kanazawa & Tokyo",
+        "t_start": "2026-09-27",
+        "t_end": "2026-09-30", 
+        "hotels": [
+            "Kanazawa New Grand Hotel Prestige - Shimoishibikimachi, Kanazawa",
+            "The Westin - Ebisu, Tokyo"
+        ],
+        "foods": [
+            "Ramen @ Ramen Samurai Kanazawa 100bangai - Kanazawa",
+            "Pizza @ PIZZA HORIZON",
+            "Chocolates @ Saint Nicolas Korinbo Store"
+        ],
+        "places": [
+            "Kanazawa Pokemon Center",
+            "Nomura-ke Samurai Residence in Kanazawa",
+            "Kanazawa Train Station",
+            "Kanazawa Castle Park",
+            "Oyama-jinja Shrine in Kanazawa",
+            "Kenrokuen Garden in Kanazawa",
+            "Diver City Tokyo Plaza - Giant Unicorn Gundam Statue",
+            "Shibuya Crossing",
+            "Hachiko Square",
+            "Round 1 Bowling in Tokyo"
+        ],
+        "photos": [
+            "https://drive.google.com/file/d/1xFHfze0O0NnWUxtF8IUAV_WuWr90NGqv/view?usp=sharing",
+            "https://drive.google.com/file/d/13F_3poSBwyJr5Tp18d_cMw43qgUBua6-/view?usp=sharing"            
+        ],
+        "c_thoughts": "Here are Colton's thoughts on Kanazawa and Tokyo",
+        "k_thoughts": "Here are Kelsey's thoughts on Kanazawa and Tokyo"
+    }
+]
