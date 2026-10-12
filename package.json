@@ -1,0 +1,10 @@
+{
+  "homepage": "https://Kelsey-Shanks.github.io/Travel-Blog-Site",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
+}
